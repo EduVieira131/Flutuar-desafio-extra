@@ -53,6 +53,11 @@ Já a página Ofertas apresenta uma lista de pacotes em ofertas juntamente com u
 
 > Já o link "Contato" abre o serviço de E-mail do usuário e permite contatar diretamente a empresa.
 
+## Acesse o projeto!
+
+https://eduvieira131.github.io/Flutuar-desafio-extra/index.html
+<br>
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
