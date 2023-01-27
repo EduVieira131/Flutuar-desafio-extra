@@ -32,7 +32,7 @@ no programa. Contudo, fui além e desenvolvi outras páginas, para complementar 
 
 <br>
 
-> Já o link "Contato" abre o serviço de E-mail do usuário e permite contatar diretamente a empresa.
+> Já o botão "Contato" abre o serviço de e-mail do usuário e permite contatar diretamente a empresa.
 
 ## Acesse o projeto!
 
