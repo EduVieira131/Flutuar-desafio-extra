@@ -1,7 +1,5 @@
 <h1 align="center"> Flutuar - Desafio extra do programa Explorer </h1>
 
-<p align="center">
-O programa Explorer é um curso que visa ensinar programação e pessoas que nunca tiveram contato e desejam ingressar no mercado de trabalho. 
 </br>
 
 <p align="center">
