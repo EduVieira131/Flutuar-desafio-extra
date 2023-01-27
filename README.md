@@ -36,7 +36,7 @@ no programa. Contudo, fui além e desenvolvi outras páginas, para complementar 
 
 ## Acesse o projeto!
 
-https://eduvieira131.github.io/Flutuar-desafio-extra/index.html
+[Flutuar.com](https://eduvieira131.github.io/Flutuar-desafio-extra/index.html)
 <br>
 
 ## :memo: Licença
